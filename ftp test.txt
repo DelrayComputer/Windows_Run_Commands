@@ -1,0 +1,11 @@
+run - ftp 209.26.88.30
+ftp
+ftp
+hash
+ls
+get test.3meg
+
+then 
+
+cd upload 
+put test.1meg
